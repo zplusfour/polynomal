@@ -1,0 +1,19 @@
+{
+  "name": "Polynomal",
+  "version": "1.0.0",
+  "description": "Polynomal is a programming language that does not compile nor interpret when running code. It assembles code into assembly and allows compilation into a PE/EXE and ELF format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ass-js": "^2.1.1",
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
